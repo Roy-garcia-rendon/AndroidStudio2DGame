@@ -1,3 +1,5 @@
 # AndroidStudio2DGame
 
-Juego 2D desarrollado en AndroidStudio
+Juego 2D desarrollado en AndroidStudio.
+
+
